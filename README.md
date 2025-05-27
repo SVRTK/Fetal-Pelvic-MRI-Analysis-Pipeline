@@ -32,3 +32,8 @@ The pipeline is divided into two main stages:
 - Composite indices computed: FPI, HC/OC, Magnin Index
 
 ---
+
+### 🙏 Acknowledgements
+Supervised by Prof. Mary Rutherford, Dr. Alena Uus, and Dr. Simi Bansal.
+MRI data from the MiBirth study at King’s College London.
+Developed using the MONAI framework.
