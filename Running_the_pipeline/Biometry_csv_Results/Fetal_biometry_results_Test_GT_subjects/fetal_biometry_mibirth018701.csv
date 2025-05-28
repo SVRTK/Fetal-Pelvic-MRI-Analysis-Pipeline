@@ -1,0 +1,6 @@
+Measurements,UNet Predicted [mm],Manual [mm],MAE [mm],Relative Error [%]
+OFD,,111.5,,
+Mento-vertical diameter,,130.1,,
+BPD,,99.6,,
+Bihumeral diameter,100.68430667667845,104.4,3.7156933233215597,3.559093221572375
+Fetal head circumference (HC),,328.1,,
