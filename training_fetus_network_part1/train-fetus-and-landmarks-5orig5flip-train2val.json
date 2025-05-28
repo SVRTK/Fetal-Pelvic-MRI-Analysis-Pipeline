@@ -1,0 +1,98 @@
+{
+
+"training": [
+
+{
+"image": "training-fetus-042025/mibirth003301-t2.nii.gz",
+"label": "training-fetus-042025/mibirth003301-mask-fetus-v2.nii.gz"
+},
+{
+"image": "training-fetus-042025/flip-mibirth003301-t2.nii.gz",
+"label": "training-fetus-042025/flip-mibirth003301-mask-fetus-v2.nii.gz"
+},
+
+
+{
+"image": "training-fetus-042025/mibirth003501-t2.nii.gz",
+"label": "training-fetus-042025/mibirth003501-mask-fetus-v2.nii.gz"
+},
+{
+"image": "training-fetus-042025/flip-mibirth003501-t2.nii.gz",
+"label": "training-fetus-042025/flip-mibirth003501-mask-fetus-v2.nii.gz"
+},
+
+
+{
+"image": "training-fetus-042025/mibirth003601-t2.nii.gz",
+"label": "training-fetus-042025/mibirth003601-mask-fetus-v2.nii.gz"
+},
+{
+"image": "training-fetus-042025/flip-mibirth003601-t2.nii.gz",
+"label": "training-fetus-042025/flip-mibirth003601-mask-fetus-v2.nii.gz"
+},
+
+
+{
+"image": "training-fetus-042025/mibirth003801-t2.nii.gz",
+"label": "training-fetus-042025/mibirth003801-mask-fetus-v2.nii.gz"
+},
+{
+"image": "training-fetus-042025/flip-mibirth003801-t2.nii.gz",
+"label": "training-fetus-042025/flip-mibirth003801-mask-fetus-v2.nii.gz"
+},
+
+
+{
+"image": "training-fetus-042025/mibirth003901-t2.nii.gz",
+"label": "training-fetus-042025/mibirth003901-mask-fetus-v2.nii.gz"
+},
+{
+"image": "training-fetus-042025/flip-mibirth003901-t2.nii.gz",
+"label": "training-fetus-042025/flip-mibirth003901-mask-fetus-v2.nii.gz"
+}
+
+],
+
+
+"validation": [
+
+
+{
+"image": "training-fetus-042025/mibirth010201-t2.nii.gz",
+"label": "training-fetus-042025/mibirth010201-mask-fetus-v2.nii.gz"
+},
+{
+"image": "training-fetus-042025/flip-mibirth010201-t2.nii.gz",
+"label": "training-fetus-042025/flip-mibirth010201-mask-fetus-v2.nii.gz"
+}
+
+
+],
+
+
+
+"running": [
+
+{
+"image": "training-fetus-042025/mibirth018701-t2.nii.gz",
+"label": "training-fetus-042025/mibirth018701-mask-fetus-v2.nii.gz"
+},
+{
+"image": "training-fetus-042025/mibirth018901-t2.nii.gz",
+"label": "training-fetus-042025/mibirth018901-mask-fetus-v2.nii.gz"
+},
+{
+"image": "training-fetus-042025/mibirth019001-t2.nii.gz",
+"label": "training-fetus-042025/mibirth019001-mask-fetus-v2.nii.gz"
+},
+{
+"image": "training-fetus-042025/mibirth019201-t2.nii.gz",
+"label": "training-fetus-042025/mibirth019201-mask-fetus-v2.nii.gz"
+},
+{
+"image": "training-fetus-042025/mibirth019301-t2.nii.gz",
+"label": "training-fetus-042025/mibirth019301-mask-fetus-v2.nii.gz"
+}
+        
+]
+}

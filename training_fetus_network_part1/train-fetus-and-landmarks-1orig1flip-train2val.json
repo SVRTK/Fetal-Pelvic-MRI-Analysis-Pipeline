@@ -1,0 +1,57 @@
+{
+
+"training": [
+
+{
+"image": "training-fetus-042025/mibirth003301-t2.nii.gz",
+"label": "training-fetus-042025/mibirth003301-mask-fetus-v2.nii.gz"
+},
+{
+"image": "training-fetus-042025/flip-mibirth003301-t2.nii.gz",
+"label": "training-fetus-042025/flip-mibirth003301-mask-fetus-v2.nii.gz"
+}
+
+],
+
+
+"validation": [
+
+{
+"image": "training-fetus-042025/mibirth003301-t2.nii.gz",
+"label": "training-fetus-042025/mibirth003301-mask-fetus-v2.nii.gz"
+},
+{
+"image": "training-fetus-042025/flip-mibirth003301-t2.nii.gz",
+"label": "training-fetus-042025/flip-mibirth003301-mask-fetus-v2.nii.gz"
+}
+
+
+],
+
+
+
+"running": [
+
+{
+"image": "training-fetus-042025/mibirth018701-t2.nii.gz",
+"label": "training-fetus-042025/mibirth018701-lab-multi-and-landmarks.nii.gz"
+},
+{
+"image": "training-fetus-042025/mibirth018901-t2.nii.gz",
+"label": "training-fetus-042025/mibirth018901-lab-multi-and-landmarks.nii.gz"
+},
+{
+"image": "training-fetus-042025/mibirth019001-t2.nii.gz",
+"label": "training-fetus-042025/mibirth019001-lab-multi-and-landmarks.nii.gz"
+},
+{
+"image": "training-fetus-042025/mibirth019201-t2.nii.gz",
+"label": "training-fetus-042025/mibirth019201-lab-multi-and-landmarks.nii.gz"
+},
+{
+"image": "training-fetus-042025/mibirth019301-t2.nii.gz",
+"label": "training-fetus-042025/mibirth019301-lab-multi-and-landmarks.nii.gz"
+}
+        
+]
+}
