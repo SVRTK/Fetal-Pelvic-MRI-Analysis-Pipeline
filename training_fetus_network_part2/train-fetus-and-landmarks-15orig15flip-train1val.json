@@ -1,0 +1,205 @@
+{
+
+"training": [
+
+{
+"image": "training-fetus-042025/mibirth003301-t2.nii.gz",
+"label": "training-fetus-042025/mibirth003301-mask-fetus-v2.nii.gz"
+},
+{
+"image": "training-fetus-042025/flip-mibirth003301-t2.nii.gz",
+"label": "training-fetus-042025/flip-mibirth003301-mask-fetus-v2.nii.gz"
+},
+
+
+{
+"image": "training-fetus-042025/mibirth003501-t2.nii.gz",
+"label": "training-fetus-042025/mibirth003501-mask-fetus-v2.nii.gz"
+},
+{
+"image": "training-fetus-042025/flip-mibirth003501-t2.nii.gz",
+"label": "training-fetus-042025/flip-mibirth003501-mask-fetus-v2.nii.gz"
+},
+
+
+{
+"image": "training-fetus-042025/mibirth003601-t2.nii.gz",
+"label": "training-fetus-042025/mibirth003601-mask-fetus-v2.nii.gz"
+},
+{
+"image": "training-fetus-042025/flip-mibirth003601-t2.nii.gz",
+"label": "training-fetus-042025/flip-mibirth003601-mask-fetus-v2.nii.gz"
+},
+
+
+{
+"image": "training-fetus-042025/mibirth003801-t2.nii.gz",
+"label": "training-fetus-042025/mibirth003801-mask-fetus-v2.nii.gz"
+},
+{
+"image": "training-fetus-042025/flip-mibirth003801-t2.nii.gz",
+"label": "training-fetus-042025/flip-mibirth003801-mask-fetus-v2.nii.gz"
+},
+
+
+{
+"image": "training-fetus-042025/mibirth003901-t2.nii.gz",
+"label": "training-fetus-042025/mibirth003901-mask-fetus-v2.nii.gz"
+},
+{
+"image": "training-fetus-042025/flip-mibirth003901-t2.nii.gz",
+"label": "training-fetus-042025/flip-mibirth003901-mask-fetus-v2.nii.gz"
+},
+
+{
+"image": "training-fetus-042025/mibirth004501-t2.nii.gz",
+"label": "training-fetus-042025/mibirth004501-mask-fetus-v2.nii.gz"
+},
+{
+"image": "training-fetus-042025/flip-mibirth004501-t2.nii.gz",
+"label": "training-fetus-042025/flip-mibirth004501-mask-fetus-v2.nii.gz"
+},
+
+{
+"image": "training-fetus-042025/mibirth004601-t2.nii.gz",
+"label": "training-fetus-042025/mibirth004601-mask-fetus-v2.nii.gz"
+},
+{
+"image": "training-fetus-042025/flip-mibirth004601-t2.nii.gz",
+"label": "training-fetus-042025/flip-mibirth004601-mask-fetus-v2.nii.gz"
+},
+
+
+{
+"image": "training-fetus-042025/mibirth004701-t2.nii.gz",
+"label": "training-fetus-042025/mibirth004701-mask-fetus-v2.nii.gz"
+},
+{
+"image": "training-fetus-042025/flip-mibirth004701-t2.nii.gz",
+"label": "training-fetus-042025/flip-mibirth004701-mask-fetus-v2.nii.gz"
+},
+
+
+{
+"image": "training-fetus-042025/mibirth005701-t2.nii.gz",
+"label": "training-fetus-042025/mibirth005701-mask-fetus-v2.nii.gz"
+},
+{
+"image": "training-fetus-042025/flip-mibirth005701-t2.nii.gz",
+"label": "training-fetus-042025/flip-mibirth005701-mask-fetus-v2.nii.gz"
+},
+
+
+{
+"image": "training-fetus-042025/mibirth006101-t2.nii.gz",
+"label": "training-fetus-042025/mibirth006101-mask-fetus-v2.nii.gz"
+},
+{
+"image": "training-fetus-042025/flip-mibirth006101-t2.nii.gz",
+"label": "training-fetus-042025/flip-mibirth006101-mask-fetus-v2.nii.gz"
+},
+
+
+{
+"image": "training-fetus-042025/mibirth006701-t2.nii.gz",
+"label": "training-fetus-042025/mibirth006701-mask-fetus-v2.nii.gz"
+},
+{
+"image": "training-fetus-042025/flip-mibirth006701-t2.nii.gz",
+"label": "training-fetus-042025/flip-mibirth006701-mask-fetus-v2.nii.gz"
+},
+
+
+{
+"image": "training-fetus-042025/mibirth007001-t2.nii.gz",
+"label": "training-fetus-042025/mibirth007001-mask-fetus-v2.nii.gz"
+},
+{
+"image": "training-fetus-042025/flip-mibirth007001-t2.nii.gz",
+"label": "training-fetus-042025/flip-mibirth007001-mask-fetus-v2.nii.gz"
+},
+
+
+{
+"image": "training-fetus-042025/mibirth007501-t2.nii.gz",
+"label": "training-fetus-042025/mibirth007501-mask-fetus-v2.nii.gz"
+},
+{
+"image": "training-fetus-042025/flip-mibirth007501-t2.nii.gz",
+"label": "training-fetus-042025/flip-mibirth007501-mask-fetus-v2.nii.gz"
+},
+
+
+{
+"image": "training-fetus-042025/mibirth007801-t2.nii.gz",
+"label": "training-fetus-042025/mibirth007801-mask-fetus-v2.nii.gz"
+},
+{
+"image": "training-fetus-042025/flip-mibirth007801-t2.nii.gz",
+"label": "training-fetus-042025/flip-mibirth007801-mask-fetus-v2.nii.gz"
+},
+
+
+{
+"image": "training-fetus-042025/mibirth007901-t2.nii.gz",
+"label": "training-fetus-042025/mibirth007901-mask-fetus-v2.nii.gz"
+},
+{
+"image": "training-fetus-042025/flip-mibirth007901-t2.nii.gz",
+"label": "training-fetus-042025/flip-mibirth007901-mask-fetus-v2.nii.gz"
+}
+
+],
+
+
+"validation": [
+
+
+{
+"image": "training-fetus-042025/mibirth010201-t2.nii.gz",
+"label": "training-fetus-042025/mibirth010201-mask-fetus-v2.nii.gz"
+},
+{
+"image": "training-fetus-042025/flip-mibirth010201-t2.nii.gz",
+"label": "training-fetus-042025/flip-mibirth010201-mask-fetus-v2.nii.gz"
+},
+
+{
+"image": "training-fetus-042025/mibirth010101-t2.nii.gz",
+"label": "training-fetus-042025/mibirth010101-mask-fetus-v2.nii.gz"
+},
+{
+"image": "training-fetus-042025/flip-mibirth010101-t2.nii.gz",
+"label": "training-fetus-042025/flip-mibirth010101-mask-fetus-v2.nii.gz"
+}
+
+
+],
+
+
+
+"running": [
+
+{
+"image": "training-fetus-042025/mibirth018701-t2.nii.gz",
+"label": "training-fetus-042025/mibirth018701-mask-fetus-v2.nii.gz"
+},
+{
+"image": "training-fetus-042025/mibirth018901-t2.nii.gz",
+"label": "training-fetus-042025/mibirth018901-mask-fetus-v2.nii.gz"
+},
+{
+"image": "training-fetus-042025/mibirth019001-t2.nii.gz",
+"label": "training-fetus-042025/mibirth019001-mask-fetus-v2.nii.gz"
+},
+{
+"image": "training-fetus-042025/mibirth019201-t2.nii.gz",
+"label": "training-fetus-042025/mibirth019201-mask-fetus-v2.nii.gz"
+},
+{
+"image": "training-fetus-042025/mibirth019301-t2.nii.gz",
+"label": "training-fetus-042025/mibirth019301-mask-fetus-v2.nii.gz"
+}
+        
+]
+}
