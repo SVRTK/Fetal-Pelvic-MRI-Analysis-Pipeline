@@ -1,0 +1,50 @@
+{
+
+"training": [
+
+{
+"image": "train-crop-pelvis-multi-v2/mibirth003301-t2.nii.gz",
+"label": "train-crop-pelvis-multi-v2/mibirth003301-lab-multi-and-landmarks.nii.gz"
+},
+{
+"image": "train-crop-pelvis-multi-v2/mibirth003501-t2.nii.gz",
+"label": "train-crop-pelvis-multi-v2/mibirth003501-lab-multi-and-landmarks.nii.gz"
+},
+{
+"image": "train-crop-pelvis-multi-v2/mibirth003601-t2.nii.gz",
+"label": "train-crop-pelvis-multi-v2/mibirth003601-lab-multi-and-landmarks.nii.gz"
+},
+{
+"image": "train-crop-pelvis-multi-v2/mibirth003801-t2.nii.gz",
+"label": "train-crop-pelvis-multi-v2/mibirth003801-lab-multi-and-landmarks.nii.gz"
+},
+{
+"image": "train-crop-pelvis-multi-v2/mibirth003901-t2.nii.gz",
+"label": "train-crop-pelvis-multi-v2/mibirth003901-lab-multi-and-landmarks.nii.gz"
+}
+
+
+  
+],
+"validation": [
+
+{
+"image": "train-crop-pelvis-multi-v2/mibirth010201-t2.nii.gz",
+"label": "train-crop-pelvis-multi-v2/mibirth010201-lab-multi-and-landmarks.nii.gz"
+}
+
+
+
+
+]
+,
+"running": [
+
+{
+"image": "train-crop-pelvis-multi-v2/mibirth003301-t2.nii.gz",
+"label": "train-crop-pelvis-multi-v2/mibirth003301-lab-multi-and-landmarks.nii.gz"
+}
+
+        
+]
+}

@@ -1,0 +1,33 @@
+{
+
+"training": [
+
+{
+"image": "train-crop-pelvis-multi-v2/mibirth003301-t2.nii.gz",
+"label": "train-crop-pelvis-multi-v2/mibirth003301-lab-multi-and-landmarks.nii.gz"
+}
+
+  
+],
+"validation": [
+
+{
+"image": "train-crop-pelvis-multi-v2/mibirth003301-t2.nii.gz",
+"label": "train-crop-pelvis-multi-v2/mibirth003301-lab-multi-and-landmarks.nii.gz"
+}
+
+
+
+
+]
+,
+"running": [
+
+{
+"image": "train-crop-pelvis-multi-v2/mibirth003301-t2.nii.gz",
+"label": "train-crop-pelvis-multi-v2/mibirth003301-lab-multi-and-landmarks.nii.gz"
+}
+
+        
+]
+}

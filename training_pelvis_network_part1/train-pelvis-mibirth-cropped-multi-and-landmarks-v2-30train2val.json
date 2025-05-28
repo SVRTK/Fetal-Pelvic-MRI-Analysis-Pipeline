@@ -1,0 +1,272 @@
+{
+
+"training": [
+
+{
+"image": "train-crop-pelvis-multi-v2/mibirth003301-t2.nii.gz",
+"label": "train-crop-pelvis-multi-v2/mibirth003301-lab-multi-and-landmarks.nii.gz"
+},
+{
+"image": "train-crop-pelvis-multi-v2/mibirth003501-t2.nii.gz",
+"label": "train-crop-pelvis-multi-v2/mibirth003501-lab-multi-and-landmarks.nii.gz"
+},
+{
+"image": "train-crop-pelvis-multi-v2/mibirth003601-t2.nii.gz",
+"label": "train-crop-pelvis-multi-v2/mibirth003601-lab-multi-and-landmarks.nii.gz"
+},
+{
+"image": "train-crop-pelvis-multi-v2/mibirth003801-t2.nii.gz",
+"label": "train-crop-pelvis-multi-v2/mibirth003801-lab-multi-and-landmarks.nii.gz"
+},
+{
+"image": "train-crop-pelvis-multi-v2/mibirth003901-t2.nii.gz",
+"label": "train-crop-pelvis-multi-v2/mibirth003901-lab-multi-and-landmarks.nii.gz"
+},
+{
+"image": "train-crop-pelvis-multi-v2/mibirth004501-t2.nii.gz",
+"label": "train-crop-pelvis-multi-v2/mibirth004501-lab-multi-and-landmarks.nii.gz"
+},
+{
+"image": "train-crop-pelvis-multi-v2/mibirth004601-t2.nii.gz",
+"label": "train-crop-pelvis-multi-v2/mibirth004601-lab-multi-and-landmarks.nii.gz"
+},
+{
+"image": "train-crop-pelvis-multi-v2/mibirth004701-t2.nii.gz",
+"label": "train-crop-pelvis-multi-v2/mibirth004701-lab-multi-and-landmarks.nii.gz"
+},
+{
+"image": "train-crop-pelvis-multi-v2/mibirth004901-t2.nii.gz",
+"label": "train-crop-pelvis-multi-v2/mibirth004901-lab-multi-and-landmarks.nii.gz"
+},
+{
+"image": "train-crop-pelvis-multi-v2/mibirth005601-t2.nii.gz",
+"label": "train-crop-pelvis-multi-v2/mibirth005601-lab-multi-and-landmarks.nii.gz"
+},
+{
+"image": "train-crop-pelvis-multi-v2/mibirth005701-t2.nii.gz",
+"label": "train-crop-pelvis-multi-v2/mibirth005701-lab-multi-and-landmarks.nii.gz"
+},
+{
+"image": "train-crop-pelvis-multi-v2/mibirth006101-t2.nii.gz",
+"label": "train-crop-pelvis-multi-v2/mibirth006101-lab-multi-and-landmarks.nii.gz"
+},
+{
+"image": "train-crop-pelvis-multi-v2/mibirth006701-t2.nii.gz",
+"label": "train-crop-pelvis-multi-v2/mibirth006701-lab-multi-and-landmarks.nii.gz"
+},
+{
+"image": "train-crop-pelvis-multi-v2/mibirth006901-t2.nii.gz",
+"label": "train-crop-pelvis-multi-v2/mibirth006901-lab-multi-and-landmarks.nii.gz"
+},
+{
+"image": "train-crop-pelvis-multi-v2/mibirth007001-t2.nii.gz",
+"label": "train-crop-pelvis-multi-v2/mibirth007001-lab-multi-and-landmarks.nii.gz"
+},
+{
+"image": "train-crop-pelvis-multi-v2/mibirth007101-t2.nii.gz",
+"label": "train-crop-pelvis-multi-v2/mibirth007101-lab-multi-and-landmarks.nii.gz"
+},
+{
+"image": "train-crop-pelvis-multi-v2/mibirth007501-t2.nii.gz",
+"label": "train-crop-pelvis-multi-v2/mibirth007501-lab-multi-and-landmarks.nii.gz"
+},
+{
+"image": "train-crop-pelvis-multi-v2/mibirth007801-t2.nii.gz",
+"label": "train-crop-pelvis-multi-v2/mibirth007801-lab-multi-and-landmarks.nii.gz"
+},
+{
+"image": "train-crop-pelvis-multi-v2/mibirth007901-t2.nii.gz",
+"label": "train-crop-pelvis-multi-v2/mibirth007901-lab-multi-and-landmarks.nii.gz"
+},
+{
+"image": "train-crop-pelvis-multi-v2/mibirth008001-t2.nii.gz",
+"label": "train-crop-pelvis-multi-v2/mibirth008001-lab-multi-and-landmarks.nii.gz"
+},
+{
+"image": "train-crop-pelvis-multi-v2/mibirth008101-t2.nii.gz",
+"label": "train-crop-pelvis-multi-v2/mibirth008101-lab-multi-and-landmarks.nii.gz"
+},
+{
+"image": "train-crop-pelvis-multi-v2/mibirth008201-t2.nii.gz",
+"label": "train-crop-pelvis-multi-v2/mibirth008201-lab-multi-and-landmarks.nii.gz"
+},
+{
+"image": "train-crop-pelvis-multi-v2/mibirth008301-t2.nii.gz",
+"label": "train-crop-pelvis-multi-v2/mibirth008301-lab-multi-and-landmarks.nii.gz"
+},
+{
+"image": "train-crop-pelvis-multi-v2/mibirth008501-t2.nii.gz",
+"label": "train-crop-pelvis-multi-v2/mibirth008501-lab-multi-and-landmarks.nii.gz"
+},
+{
+"image": "train-crop-pelvis-multi-v2/mibirth008701-t2.nii.gz",
+"label": "train-crop-pelvis-multi-v2/mibirth008701-lab-multi-and-landmarks.nii.gz"
+},
+{
+"image": "train-crop-pelvis-multi-v2/mibirth008801-t2.nii.gz",
+"label": "train-crop-pelvis-multi-v2/mibirth008801-lab-multi-and-landmarks.nii.gz"
+},
+{
+"image": "train-crop-pelvis-multi-v2/mibirth008901-t2.nii.gz",
+"label": "train-crop-pelvis-multi-v2/mibirth008901-lab-multi-and-landmarks.nii.gz"
+},
+{
+"image": "train-crop-pelvis-multi-v2/mibirth009601-t2.nii.gz",
+"label": "train-crop-pelvis-multi-v2/mibirth009601-lab-multi-and-landmarks.nii.gz"
+},
+{
+"image": "train-crop-pelvis-multi-v2/mibirth009801-t2.nii.gz",
+"label": "train-crop-pelvis-multi-v2/mibirth009801-lab-multi-and-landmarks.nii.gz"
+},
+{
+"image": "train-crop-pelvis-multi-v2/mibirth009901-t2.nii.gz",
+"label": "train-crop-pelvis-multi-v2/mibirth009901-lab-multi-and-landmarks.nii.gz"
+}
+
+
+  
+],
+"validation": [
+
+{
+"image": "train-crop-pelvis-multi-v2/mibirth010101-t2.nii.gz",
+"label": "train-crop-pelvis-multi-v2/mibirth010101-lab-multi-and-landmarks.nii.gz"
+},    
+{
+"image": "train-crop-pelvis-multi-v2/mibirth010201-t2.nii.gz",
+"label": "train-crop-pelvis-multi-v2/mibirth010201-lab-multi-and-landmarks.nii.gz"
+}
+
+
+
+]
+,
+"running": [
+
+{
+"image": "train-crop-pelvis-multi-v2/mibirth003301-t2.nii.gz",
+"label": "train-crop-pelvis-multi-v2/mibirth003301-lab-multi-and-landmarks.nii.gz"
+},
+{
+"image": "train-crop-pelvis-multi-v2/mibirth003501-t2.nii.gz",
+"label": "train-crop-pelvis-multi-v2/mibirth003501-lab-multi-and-landmarks.nii.gz"
+},
+{
+"image": "train-crop-pelvis-multi-v2/mibirth003601-t2.nii.gz",
+"label": "train-crop-pelvis-multi-v2/mibirth003601-lab-multi-and-landmarks.nii.gz"
+},
+{
+"image": "train-crop-pelvis-multi-v2/mibirth003801-t2.nii.gz",
+"label": "train-crop-pelvis-multi-v2/mibirth003801-lab-multi-and-landmarks.nii.gz"
+},
+{
+"image": "train-crop-pelvis-multi-v2/mibirth003901-t2.nii.gz",
+"label": "train-crop-pelvis-multi-v2/mibirth003901-lab-multi-and-landmarks.nii.gz"
+},
+{
+"image": "train-crop-pelvis-multi-v2/mibirth004501-t2.nii.gz",
+"label": "train-crop-pelvis-multi-v2/mibirth004501-lab-multi-and-landmarks.nii.gz"
+},
+{
+"image": "train-crop-pelvis-multi-v2/mibirth004601-t2.nii.gz",
+"label": "train-crop-pelvis-multi-v2/mibirth004601-lab-multi-and-landmarks.nii.gz"
+},
+{
+"image": "train-crop-pelvis-multi-v2/mibirth004701-t2.nii.gz",
+"label": "train-crop-pelvis-multi-v2/mibirth004701-lab-multi-and-landmarks.nii.gz"
+},
+{
+"image": "train-crop-pelvis-multi-v2/mibirth004901-t2.nii.gz",
+"label": "train-crop-pelvis-multi-v2/mibirth004901-lab-multi-and-landmarks.nii.gz"
+},
+{
+"image": "train-crop-pelvis-multi-v2/mibirth005601-t2.nii.gz",
+"label": "train-crop-pelvis-multi-v2/mibirth005601-lab-multi-and-landmarks.nii.gz"
+},
+{
+"image": "train-crop-pelvis-multi-v2/mibirth005701-t2.nii.gz",
+"label": "train-crop-pelvis-multi-v2/mibirth005701-lab-multi-and-landmarks.nii.gz"
+},
+{
+"image": "train-crop-pelvis-multi-v2/mibirth006101-t2.nii.gz",
+"label": "train-crop-pelvis-multi-v2/mibirth006101-lab-multi-and-landmarks.nii.gz"
+},
+{
+"image": "train-crop-pelvis-multi-v2/mibirth006701-t2.nii.gz",
+"label": "train-crop-pelvis-multi-v2/mibirth006701-lab-multi-and-landmarks.nii.gz"
+},
+{
+"image": "train-crop-pelvis-multi-v2/mibirth006901-t2.nii.gz",
+"label": "train-crop-pelvis-multi-v2/mibirth006901-lab-multi-and-landmarks.nii.gz"
+},
+{
+"image": "train-crop-pelvis-multi-v2/mibirth007001-t2.nii.gz",
+"label": "train-crop-pelvis-multi-v2/mibirth007001-lab-multi-and-landmarks.nii.gz"
+},
+{
+"image": "train-crop-pelvis-multi-v2/mibirth007101-t2.nii.gz",
+"label": "train-crop-pelvis-multi-v2/mibirth007101-lab-multi-and-landmarks.nii.gz"
+},
+{
+"image": "train-crop-pelvis-multi-v2/mibirth007501-t2.nii.gz",
+"label": "train-crop-pelvis-multi-v2/mibirth007501-lab-multi-and-landmarks.nii.gz"
+},
+{
+"image": "train-crop-pelvis-multi-v2/mibirth007801-t2.nii.gz",
+"label": "train-crop-pelvis-multi-v2/mibirth007801-lab-multi-and-landmarks.nii.gz"
+},
+{
+"image": "train-crop-pelvis-multi-v2/mibirth007901-t2.nii.gz",
+"label": "train-crop-pelvis-multi-v2/mibirth007901-lab-multi-and-landmarks.nii.gz"
+},
+{
+"image": "train-crop-pelvis-multi-v2/mibirth008001-t2.nii.gz",
+"label": "train-crop-pelvis-multi-v2/mibirth008001-lab-multi-and-landmarks.nii.gz"
+},
+{
+"image": "train-crop-pelvis-multi-v2/mibirth008101-t2.nii.gz",
+"label": "train-crop-pelvis-multi-v2/mibirth008101-lab-multi-and-landmarks.nii.gz"
+},
+{
+"image": "train-crop-pelvis-multi-v2/mibirth008201-t2.nii.gz",
+"label": "train-crop-pelvis-multi-v2/mibirth008201-lab-multi-and-landmarks.nii.gz"
+},
+{
+"image": "train-crop-pelvis-multi-v2/mibirth008301-t2.nii.gz",
+"label": "train-crop-pelvis-multi-v2/mibirth008301-lab-multi-and-landmarks.nii.gz"
+},
+{
+"image": "train-crop-pelvis-multi-v2/mibirth008501-t2.nii.gz",
+"label": "train-crop-pelvis-multi-v2/mibirth008501-lab-multi-and-landmarks.nii.gz"
+},
+{
+"image": "train-crop-pelvis-multi-v2/mibirth008701-t2.nii.gz",
+"label": "train-crop-pelvis-multi-v2/mibirth008701-lab-multi-and-landmarks.nii.gz"
+},
+{
+"image": "train-crop-pelvis-multi-v2/mibirth008801-t2.nii.gz",
+"label": "train-crop-pelvis-multi-v2/mibirth008801-lab-multi-and-landmarks.nii.gz"
+},
+{
+"image": "train-crop-pelvis-multi-v2/mibirth008901-t2.nii.gz",
+"label": "train-crop-pelvis-multi-v2/mibirth008901-lab-multi-and-landmarks.nii.gz"
+},
+{
+"image": "train-crop-pelvis-multi-v2/mibirth009601-t2.nii.gz",
+"label": "train-crop-pelvis-multi-v2/mibirth009601-lab-multi-and-landmarks.nii.gz"
+},
+{
+"image": "train-crop-pelvis-multi-v2/mibirth009801-t2.nii.gz",
+"label": "train-crop-pelvis-multi-v2/mibirth009801-lab-multi-and-landmarks.nii.gz"
+},
+{
+"image": "train-crop-pelvis-multi-v2/mibirth009901-t2.nii.gz",
+"label": "train-crop-pelvis-multi-v2/mibirth009901-lab-multi-and-landmarks.nii.gz"
+},
+{
+"image": "train-crop-pelvis-multi-v2/mibirth010101-t2.nii.gz",
+"label": "train-crop-pelvis-multi-v2/mibirth010101-lab-multi-and-landmarks.nii.gz"
+}
+        
+]
+}
